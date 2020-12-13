@@ -10,3 +10,6 @@ body {
     font-size: 30px;
     color: rgb(255, 255, 255);
 }
+body{
+    background-image: url("/images/bbs.jpg");
+}
