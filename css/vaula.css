@@ -12,4 +12,10 @@ body {
 }
 body{
     background-image: url("/images/bbs.jpg");
+    background-color: crimson;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    top: -3px;
 }
