@@ -11,7 +11,7 @@ body {
     color: rgb(255, 255, 255);
 }
 body{
-    background-image: url("/images/bbs.jpg");
+    background-image: url("images/bbs.jpg");
     background-color: crimson;
 }
 h1{
